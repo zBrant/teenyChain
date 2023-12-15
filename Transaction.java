@@ -1,8 +1,6 @@
 import java.security.*;
 import java.util.ArrayList;
 
-import javax.sound.midi.Soundbank;
-
 public class Transaction {
   
   public String transactionID; 
